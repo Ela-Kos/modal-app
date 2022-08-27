@@ -1,0 +1,198 @@
+@import url("https://fonts.googleapis.com/css2?family=Paytone+One&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+i {
+  width: fit-content;
+}
+
+.i .fa-solid .fa-circle-info {
+  width: fit-content;
+}
+
+.i .fa-solid .fa-circle-info {
+  width: fit-content;
+}
+
+.btn.btn-secondary {
+  text-align: center;
+}
+
+button.btn.btn-primary {
+  background-color: #ff154d;
+  border-radius: 50%;
+}
+
+button.btn.btn-primary:hover {
+  background-color: indigo;
+}
+
+.modal-header {
+  text-decoration: none;
+  text-align: center;
+}
+
+.modal-body.p,
+a {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+
+.modal-body.p,
+a:hover {
+  color: rgb(151, 11, 251);
+  text-decoration-line: overline, 10px, white;
+  text-underline-offset: 5px;
+  text-align: center;
+}
+
+.modal-body.p,
+a:active {
+  color: #ff154d;
+  text-decoration: none;
+}
+
+.modal-body.p,
+a:visited {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+
+/* .btn-primary {
+  margin-top: 20px;
+  margin-left: 20px;
+  color: #fff;
+  background-color: #ff154d;
+  border-color: white;
+  border-style: solid, 2px;
+  border-radius: 50%;
+}
+
+.btn-primary:hover {
+  background-color: indigo;
+  border-color: white;
+  border-style: solid, 1px;
+}
+
+.btn-primary:active {
+  background-color: white;
+  border-color: white;
+  border-style: solid, 1px;
+}
+
+.btn-primary:visited {
+  background-color: #6b071f;
+  border-style: solid, 1px;
+} */
+
+.btn-secondary {
+  margin-top: 20px;
+  margin-left: 20px;
+  color: #fff;
+  background-color: #ff154d;
+  border-color: white;
+  border-style: solid, 2px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.btn-secondary:hover {
+  background-color: indigo;
+  border-color: white;
+  border-style: solid, 1px;
+}
+
+.btn-secondary:active {
+  background-color: white;
+  border-color: white;
+  border-style: solid, 1px;
+}
+
+.btn-secondary:visited {
+  background-color: white;
+  border-style: solid, 1px;
+}
+
+.btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  z-index: 1;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: center;
+}
+
+h5 {
+  text-shadow: 3px 3px rgba(43, 1, 71, 80);
+  text-align: center;
+}
+
+#exampleModalCenterTitle {
+  text-align: center;
+  text-decoration: none;
+}
+
+.modal-content {
+  box-sizing: border-box;
+  background-color: indigo;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 30px;
+  text-shadow: 2px 2px rgba(43, 1, 71, 60);
+}
+
+.modal-dialog {
+  max-width: 600px;
+  max-height: 900px;
+  text-align: center;
+  border-style: none;
+  text-decoration: none;
+}
+
+.modal-footer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+i.fa-solid.fa-circle-info::before {
+  width: 200px;
+  height: 100px;
+}
+
+/* TUTORIAL MODAL
+.modalBtn {
+  position: fixed;
+  margin-top: 50px;
+  margin-left: 50px;
+  transform: translate(50%, -50%);
+  z-index: -1;
+  padding: 12px 24px;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  width: 50%;
+  height: 50%;
+}
+
+.modalContainer {
+  max-width: 600px;
+  width: 100%;
+  top: 40%;
+  left: 50%;
+  display: flex;
+  background-color: white;
+  box-shadow: 0px 20px 20px 0p rgba(0, 0, 0, 0.7);
+} */
